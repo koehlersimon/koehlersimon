@@ -1,4 +1,4 @@
-<img src="https://github.com/koehlersimon/koehlersimon/blob/master/github-header.png" alt="Header Image Simon Köhler">
+<img src="https://github.com/koehlersimon/koehlersimon/blob/master/github-header.png" alt="Header Image Simon Köhler" width="854" height="340">
 
 Full-stack TYPO3 freelancer with 12+ years of experience in multiple areas of web development. Specialized in TYPO3, especially programming with Extbase. Expert in the design and implementation of backend modules. Critical and customer-oriented. Trained media designer with German IHK certificate. Yes, I can also do screen design and even SEO. 
 
