@@ -4,16 +4,16 @@ Full-stack TYPO3 freelancer with 12+ years of experience in multiple areas of we
 
 Contact me if you are looking for a lateral thinker who independently develops creative and effective solutions for you.
 
-## Websites
+## Links
 
 - https://simon-koehler.com/en
-- https://opensocialproject.org
+- https://vanillafocus.simon-koehler.com
 
 ## Social Media
 
-- https://www.instagram.com/typo3freelancer
 - https://www.linkedin.com/in/typo3-freelancer/
+- https://www.instagram.com/typo3freelancer
 
-## PayPal Me
+## Support my work!
 
-- https://paypal.me/typo3freelancer
+- https://www.patreon.com/koehlersimon
